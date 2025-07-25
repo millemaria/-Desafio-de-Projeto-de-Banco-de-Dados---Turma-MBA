@@ -1,3 +1,11 @@
+## 👥 Integrantes
+- Rodrigo de Souza Silva
+- Charles Roberto Carmo dos Santos
+- Lincoln Rodrigues Silva
+- José Adriano Menino Costa
+- Larissa de Sá Machado
+- Jamille Maria Felix Barbosa
+
 ## 🧠 Entendimento do Projeto
 
 **🧩 1. Relacionamento entre FORNECEDOR e ENQUADRAMENTO_FORNECEDOR**
